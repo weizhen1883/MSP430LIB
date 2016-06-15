@@ -10,9 +10,7 @@ OBJCOPY=${GCC_PATH}/bin/objcopy
 
 
 # API
-*****************************
-*           gpio            *
-*****************************
+* gpio
 pinNumber: a string of pin numbers such as "P1.1"
 pinMode:
 status: pin output status ("ON", "OFF", and "TOGGLE")
