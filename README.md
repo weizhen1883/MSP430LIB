@@ -15,3 +15,6 @@ gpio
 * status: pin output status ("ON", "OFF", and "TOGGLE")
 * pinMode:
 
+USCI
+
+
